@@ -6,7 +6,7 @@ import { ThemeProvider } from 'styled-components';
 const theme = {
   colors: {
     main: '#212121',
-    second: 'mediumseagreen',
+    // second: 'mediumseagreen',
     accent: 'orangered',
     error: 'red',
   },
